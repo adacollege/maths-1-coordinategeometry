@@ -1,8 +1,8 @@
 # Algebra 02
 
 * Straight line equations
+* Simultaneous equations
 
 To do
 
-* Simultaneous equations
 * Intersections between linear and quadratic graphs
